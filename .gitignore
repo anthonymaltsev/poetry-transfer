@@ -1,5 +1,5 @@
 fine_tuned**
-
 gemini_tokenizer**
-
 gpt2_tokenizer**
+gpt2_discriminator**
+gpt2_discriminator_tokenizer**
